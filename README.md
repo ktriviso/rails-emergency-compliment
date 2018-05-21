@@ -107,6 +107,21 @@ Make it so that anytime the page is loaded or refreshed, the background color ch
 - **Rails**
   + [Documentation](http://guides.rubyonrails.org/index.html)
   
-## Submission
+  ### First....Exit Tickets 🙂
 
-Homework is due by **11:00 Tonight!** Remember to work with each other and go to TAs when you need it, but follow the [guidelines](https://git.generalassemb.ly/wdi-nyc-5-22/course-information/blob/master/how-to-queue-with-TAs.md) for queuing. Follow the normal [rules for homework submission](https://git.generalassemb.ly/wdi-nyc-5-22/course-information/blob/master/homework-policy.md), remember to include a link to your **repo**
+If you are 🔴**WDI-Rover-Opportunity**, click on the link below!
+
+[Opportunity Exit Ticket]()
+
+If you are 🔵**WDI-Rover-Spirit**, click on the link below!
+[Spirit Exit Ticket]()
+  
+## 🚀 Your homework submission should include:
+
+- Completion, comfort, wins, losses, questions...
+**Please make sure to include these so we know what to address next week!**
+
+- (PR if you are in 🔵Spirit, Issue Ticket if you are in 🔴Opportunity)
+
+## This homework is due 🚨 11PM TONIGHT 🚨
+
