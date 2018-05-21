@@ -120,7 +120,6 @@ If you are 🔵**WDI-Rover-Spirit**, click on the link below!
 ## 🚀 Your homework submission should include:
 
 - Completion, comfort, wins, losses, questions...
-**Please make sure to include these so we know what to address next week!**
 
 - (PR if you are in 🔵Spirit, Issue Ticket if you are in 🔴Opportunity)
 
