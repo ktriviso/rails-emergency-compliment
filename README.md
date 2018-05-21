@@ -114,6 +114,7 @@ If you are 🔴**WDI-Rover-Opportunity**, click on the link below!
 [Opportunity Exit Ticket]()
 
 If you are 🔵**WDI-Rover-Spirit**, click on the link below!
+
 [Spirit Exit Ticket]()
   
 ## 🚀 Your homework submission should include:
