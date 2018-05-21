@@ -6,7 +6,7 @@ You have been tasked with creating your own version of [Emergency Compliment](ht
 
 ## Learning Objectives
 
-  - Practice serving static & templated content using Rails
+Practice serving static & templated content using Rails
 
 ## Setup
 You will need to set up the Rails app, including the routes, controllers, and views.
