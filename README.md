@@ -111,11 +111,11 @@ Make it so that anytime the page is loaded or refreshed, the background color ch
 
 If you are 🔴**WDI-Rover-Opportunity**, click on the link below!
 
-[Opportunity Exit Ticket]()
+[Opportunity Exit Ticket](https://goo.gl/forms/PFRP1BqQxpMVre393)
 
 If you are 🔵**WDI-Rover-Spirit**, click on the link below!
 
-[Spirit Exit Ticket]()
+[Spirit Exit Ticket](https://goo.gl/forms/akBWd194kAoPyebt1)
   
 ## 🚀 Your homework submission should include:
 
