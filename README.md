@@ -107,7 +107,7 @@ Make it so that anytime the page is loaded or refreshed, the background color ch
 - **Rails**
   + [Documentation](http://guides.rubyonrails.org/index.html)
   
-  ### First....Exit Tickets 🙂
+  ### Exit Tickets 
 
 If you are 🔴**WDI-Rover-Opportunity**, click on the link below!
 
