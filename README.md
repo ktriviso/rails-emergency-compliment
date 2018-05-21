@@ -8,6 +8,16 @@ You have been tasked with creating your own version of [Emergency Compliment](ht
 
 Practice serving static & templated content using Rails
 
+## Exit Tickets 
+
+If you are 🔴**WDI-Rover-Opportunity**, click on the link below!
+
+[Opportunity Exit Ticket](https://goo.gl/forms/PFRP1BqQxpMVre393)
+
+If you are 🔵**WDI-Rover-Spirit**, click on the link below!
+
+[Spirit Exit Ticket](https://goo.gl/forms/akBWd194kAoPyebt1)
+
 ## Setup
 You will need to set up the Rails app, including the routes, controllers, and views.
 
@@ -107,15 +117,6 @@ Make it so that anytime the page is loaded or refreshed, the background color ch
 - **Rails**
   + [Documentation](http://guides.rubyonrails.org/index.html)
   
-### Exit Tickets 
-
-If you are 🔴**WDI-Rover-Opportunity**, click on the link below!
-
-[Opportunity Exit Ticket](https://goo.gl/forms/PFRP1BqQxpMVre393)
-
-If you are 🔵**WDI-Rover-Spirit**, click on the link below!
-
-[Spirit Exit Ticket](https://goo.gl/forms/akBWd194kAoPyebt1)
   
 ## 🚀 Your homework submission should include:
 
