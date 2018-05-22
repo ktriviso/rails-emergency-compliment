@@ -9,6 +9,7 @@ class ComplimentsController < ApplicationController
       "Your fingers are magic on the keys",
       "You are the moon of my life...my sun and stars"
     ]
+    super
   end
 
   def index
