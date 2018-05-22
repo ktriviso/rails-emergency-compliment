@@ -1,0 +1,15 @@
+<%= stylesheet_link_tag "application" %>
+
+<div class="container" style="background: rgb(<%= rand(255) %>, <%= rand(255) %>, <%= rand(255) %>)">
+
+  <h1>Hi <%= @name %>!</h1>
+  <h1>Welcome to the compliments App</h1>
+
+  <p><%= @random_compliment %></p>
+
+  <section>
+    <%= link_to "I'm still emotionally vacant. Give me another compliment.", @name_path %>
+    <%= link_to "I'm ready to soldier on.", "http://guides.rubyonrails.org/index.html" %>
+  </section>
+
+</div>
